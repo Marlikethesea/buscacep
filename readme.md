@@ -1,4 +1,4 @@
-# Projeto Busca CEP com HTML, CSS e JAVASCRIPT
+# Projeto Busca CEP com HTML, CSS e JavaScript
 
 este é um projeto simples que busca endereço de um cep utilizando API, usando HTML, CSS e JavaScript.
 
